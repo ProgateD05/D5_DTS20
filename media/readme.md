@@ -1,1 +1,1 @@
-ini folder untuk media seperti gambar, video, maupun suara
+folder isi kumpulan gambar2
