@@ -1,7 +1,21 @@
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
+  .top-wrapper {
+    width: 100%;
+    background-image: url(media/backgroundtablet.png);
+    background-size: cover;
+  }
+
+  .top-wrapper h1:hover {
+    transform: rotate(0.5deg);
+  }
+
     .top-wrapper h1 {
-      font-size: 32px;
+      font-size: 40px;
+    }
+
+    .top-wrapper p {
+      font-size: 18px;
     }
   .lesson{
     width: 50%;
@@ -20,7 +34,7 @@
   @media all and (max-width: 670px) {
 
     .header-right{
-      display:none;
+      display: none;
     }
 
     .menu-icon{
@@ -39,6 +53,25 @@
       width:100%;
     }
 
+    h2 {
+      font-size: 15px;
+    }
+    .top-wrapper {
+      width: 100%;
+      background-image: url(media/backgroundsmartp.png);
+      background-size: cover;
+    }
+    .top-wrapper h1 {
+      font-size: 35px;
+    }
+    .top-wrapper p {
+      font-size: 15px;
 
+    }
 
+    .top-wrapper p:hover {
+      color: maroon;
+    }
+
+    
   }
