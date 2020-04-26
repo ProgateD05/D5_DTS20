@@ -17,15 +17,15 @@
     .top-wrapper p {
       font-size: 18px;
     }
-  .lesson{
+  .lesson {
     width: 50%;
   }
 
-  .lesson2{
+  .lesson2 {
     width:50%;
   }
 
-  .lesson3{
+  .lesson3 {
     width: 100%;
   }
   }
@@ -33,23 +33,23 @@
   /* Untuk Smartphone */
   @media all and (max-width: 670px) {
 
-    .header-right{
+    .header-right {
       display: none;
     }
 
-    .menu-icon{
+    .menu-icon {
       display:block;
     }
 
-    .lesson{
+    .lesson {
       width: 100%;
     }
 
-    .lesson2{
+    .lesson2 {
       width:100%;
     }
 
-    .lesson3{
+    .lesson3 {
       width:100%;
     }
 
